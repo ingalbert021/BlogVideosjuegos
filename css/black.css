@@ -1,0 +1,32 @@
+.button-more{
+   color: white;
+    background: #0c0101;
+}
+
+#menu ul li:hover{
+   background: #0c0101;
+ 
+ }
+ 
+ #logo
+
+{
+
+background: #0c0101;
+
+
+}
+
+body{
+   background:url('../img/nintendo.jpg');
+   background-attachment: fixed;
+ 
+ 
+ }
+
+ 
+ .hover:hover
+ {
+background: black;
+color: azure;
+ }

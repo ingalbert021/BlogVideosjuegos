@@ -1,0 +1,33 @@
+.button-more{
+   color:white;
+     background: green;
+}
+
+#menu ul li:hover{
+  background: green
+  ;
+  
+  }
+  
+  #logo
+
+{
+
+  background: green;
+
+
+}
+
+body{
+    background:url('../img/pc.jpg');
+    background-attachment: fixed;
+  
+  
+  }
+
+  
+ .hover:hover
+ {
+  background: green;
+color: azure;
+ }

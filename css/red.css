@@ -1,0 +1,30 @@
+.button-more{
+   color: white;
+    background: #dd0d0d;
+}
+
+#menu ul li:hover{
+   background: #dd0d0d;
+ 
+ }
+ 
+ #logo
+
+{
+
+background: #dd0d0d;
+
+
+}
+
+body{
+   background:url('../img/ps2.jpg');
+   background-attachment: fixed;
+ 
+ 
+ }
+ .hover:hover
+ {
+background: #dd0d0d;
+color: azure;
+ }
